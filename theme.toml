@@ -5,12 +5,12 @@ name = "Hugoblog"
 license = "MIT"
 licenselink = "https://github.com/zuramai/hugoblog/blob/master/LICENSE"
 description = "Clean, Minimalist, and Lightweight Hugo Theme for Blog"
-homepage = ""
+homepage = "https://idev.my.id/Hugoblog/"
 tags = ["blog","personal"]
 features = ["clean", "comments"]
 min_version = "0.41.0"
 
 [author]
   name = "Ahmad Saugi"
-  homepage = ""
+  homepage = "https://idev.my.id/Hugoblog/"
 
