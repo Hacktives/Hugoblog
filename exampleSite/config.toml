@@ -1,4 +1,4 @@
-baseURL = "http://localhost"
+baseURL = "https://idev.my.id/Hugoblog/"
 languageCode = "en-us"
 title = "John's Blog"
 theme = "hugoblog"
