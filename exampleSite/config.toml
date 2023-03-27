@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "http://localhost"
 languageCode = "en-us"
 title = "John's Blog"
 theme = "hugoblog"
